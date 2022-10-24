@@ -1,0 +1,2 @@
+class Imow < ApplicationRecord
+end
